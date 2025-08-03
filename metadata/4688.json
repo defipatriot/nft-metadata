@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4688",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4688.png",
+    "dna": "24ee9e4efd5590c86ee1c3ebe5a3b8f48f4c793a",
+    "id": 4688,
+    "date": 1701937482412,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 20
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

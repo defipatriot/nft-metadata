@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2110",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2110.png",
+    "dna": "d2960c8788057455e0497f5fe33d63304b5716cc",
+    "id": 2110,
+    "date": 1701928855048,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Shovel"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 2
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

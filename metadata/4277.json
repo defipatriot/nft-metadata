@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4277",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4277.png",
+    "dna": "d116634d4f3584d4bb804a2aa1fc99b37e42d61c",
+    "id": 4277,
+    "date": 1701936156455,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 9
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

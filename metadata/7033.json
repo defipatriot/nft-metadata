@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7033",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7033.png",
+    "dna": "9dd68aa7bcb3162ef50bf9b8f3acec068763fde0",
+    "id": 7033,
+    "date": 1701946080802,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Staff of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 16
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

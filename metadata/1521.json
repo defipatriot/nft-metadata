@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1521",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1521.png",
+    "dna": "86bc34b31483c713295004af9f7f7983369a18ff",
+    "id": 1521,
+    "date": 1701926799200,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 12
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

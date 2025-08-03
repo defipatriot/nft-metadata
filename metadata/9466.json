@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9466",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9466.png",
+    "dna": "bdcecab4d1cc7b4c30b78d11c0a47cd194c44538",
+    "id": 9466,
+    "date": 1701954800152,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Gredican Power Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 17
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9767",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9767.png",
+    "dna": "dab8ffbe131f01f643284b794d3d984efb0f7bc4",
+    "id": 9767,
+    "date": 1701956014384,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 18
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

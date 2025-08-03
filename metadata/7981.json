@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7981",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7981.png",
+    "dna": "d45b46e6647c394cd311990d46edc9fefcecc974",
+    "id": 7981,
+    "date": 1701949747118,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 14
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

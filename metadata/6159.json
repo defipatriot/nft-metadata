@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6159",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6159.png",
+    "dna": "35bff464b375023500d4e4d986ccf1e5f9c9b22e",
+    "id": 6159,
+    "date": 1701942805172,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "The Eternal Torch"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 4
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

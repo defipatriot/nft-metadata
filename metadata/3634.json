@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3634",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3634.png",
+    "dna": "f57596085bfb7cdd11c0b668dd30a2521c10e69d",
+    "id": 3634,
+    "date": 1701933977549,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 26
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Amethyst glow"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Quartz dust"
+        }
+    ]
+}

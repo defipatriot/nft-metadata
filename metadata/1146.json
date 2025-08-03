@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1146",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1146.png",
+    "dna": "07924987a23d71234c762a1299205369e008e00a",
+    "id": 1146,
+    "date": 1701925470597,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Sand Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 13
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Acid rain drops"
+        }
+    ]
+}

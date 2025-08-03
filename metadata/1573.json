@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1573",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1573.png",
+    "dna": "6998aea3cb27a6bc627e76e79f95699698fb6881",
+    "id": 1573,
+    "date": 1701926999134,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Death Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 24
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Acid rain drops"
+        }
+    ]
+}

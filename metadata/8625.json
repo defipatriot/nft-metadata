@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8625",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8625.png",
+    "dna": "6c08f381f67e233438851a2c92cdec181a27d34b",
+    "id": 8625,
+    "date": 1701951873941,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 10
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

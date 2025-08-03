@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6813",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6813.png",
+    "dna": "8e1eedf59bfdd1363ffef31419b576be73dda4c1",
+    "id": 6813,
+    "date": 1701945251309,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Granite dust"
+        }
+    ]
+}

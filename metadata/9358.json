@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9358",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9358.png",
+    "dna": "c6e8d5f94e8edc694200c5365302284625a3075b",
+    "id": 9358,
+    "date": 1701954408213,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 25
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3721",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3721.png",
+    "dna": "dff3bbbdae6da04bb0997991610dbb9f0eb3301c",
+    "id": 3721,
+    "date": 1701934279036,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 12
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Amethyst glow"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

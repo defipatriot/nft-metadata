@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7768",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7768.png",
+    "dna": "d427889727c2f6e0e53582296b97cfb2982afdff",
+    "id": 7768,
+    "date": 1701948923675,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Royal Ozaran Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 22
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

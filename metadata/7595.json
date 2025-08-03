@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7595",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7595.png",
+    "dna": "c0e1a43159931830f4528ad00bff18eec58be4b4",
+    "id": 7595,
+    "date": 1701948254495,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 25
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

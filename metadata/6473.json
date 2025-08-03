@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6473",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6473.png",
+    "dna": "fc586830c362e178eae131854feedb184d8ba773",
+    "id": 6473,
+    "date": 1701943976395,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Bone Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 6
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cruthan sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Mountain winds"
+        }
+    ]
+}

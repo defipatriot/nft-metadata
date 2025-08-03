@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1580",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1580.png",
+    "dna": "c8b8e1590b8bbbf4fcb6872bf9af74c3f983ae30",
+    "id": 1580,
+    "date": 1701927027096,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

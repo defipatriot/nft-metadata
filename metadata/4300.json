@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4300",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4300.png",
+    "dna": "0052f87508986cd0703849e347c6eea39561edff",
+    "id": 4300,
+    "date": 1701936231165,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Royal Ozaran Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 22
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

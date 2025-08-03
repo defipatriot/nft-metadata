@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9797",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9797.png",
+    "dna": "bbdf8af9934ce97f158873bdc68b8e0c0ecbc313",
+    "id": 9797,
+    "date": 1701956146450,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "The Eternal Torch"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 4
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

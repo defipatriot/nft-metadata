@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #460",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/460.png",
+    "dna": "fc859844787fd9b2a70928c99d985ba9a30da107",
+    "id": 460,
+    "date": 1701923079501,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Blaster"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 34
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ozaran sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

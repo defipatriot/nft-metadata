@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7909",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7909.png",
+    "dna": "fadf8d49fec19f94a25340a0fdfe3f85cdcc3b7c",
+    "id": 7909,
+    "date": 1701949469065,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 26
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5424",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5424.png",
+    "dna": "1ad27f0dfb8946bce0d47ee6ead91c22a5a8fd19",
+    "id": 5424,
+    "date": 1701940067876,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 18
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

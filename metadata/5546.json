@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5546",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5546.png",
+    "dna": "37dd30d2b1a59c5177d9ed3c7f717a82b8ec4ab0",
+    "id": 5546,
+    "date": 1701940521470,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Shovel"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 2
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

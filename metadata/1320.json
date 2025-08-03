@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1320",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1320.png",
+    "dna": "9d21e56585828d7921bbc52408c74681314131fe",
+    "id": 1320,
+    "date": 1701926067874,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ice Cleaver"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 8
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

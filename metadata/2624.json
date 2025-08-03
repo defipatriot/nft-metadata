@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2624",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2624.png",
+    "dna": "7c5a600a85d961cb85ff572d4ef18fa6d0b653dd",
+    "id": 2624,
+    "date": 1701930535504,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 23
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

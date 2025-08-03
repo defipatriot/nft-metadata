@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9802",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9802.png",
+    "dna": "0aa8a656bd030f8016b8c439e726443f33beaf44",
+    "id": 9802,
+    "date": 1701956184219,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 27
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Ocean winds"
+        }
+    ]
+}

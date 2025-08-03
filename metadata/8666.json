@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8666",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8666.png",
+    "dna": "3c0a7a68a8da8be9aae50b14c474909f549a3e71",
+    "id": 8666,
+    "date": 1701952008756,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 21
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

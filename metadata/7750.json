@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7750",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7750.png",
+    "dna": "e5a1e0834d981b751f6bf37a88cac561d45b0929",
+    "id": 7750,
+    "date": 1701948853350,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7012",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7012.png",
+    "dna": "2ed473d2fb28df65330f47578b982de9ae5bd478",
+    "id": 7012,
+    "date": 1701945999630,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

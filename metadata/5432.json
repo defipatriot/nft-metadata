@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5432",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5432.png",
+    "dna": "55acf2523508e0e2c7b777d625d9d54220efafae",
+    "id": 5432,
+    "date": 1701940097452,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 12
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

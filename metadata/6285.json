@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6285",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6285.png",
+    "dna": "e69dd2b0c1a8cd0ea2b8dbc581cad84b32f071d3",
+    "id": 6285,
+    "date": 1701943273915,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 26
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Granite dust"
+        }
+    ]
+}

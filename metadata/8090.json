@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8090",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8090.png",
+    "dna": "e66f58744c76841765c255f8c763b4a5af697c4a",
+    "id": 8090,
+    "date": 1701950120454,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 33
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5971",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5971.png",
+    "dna": "eaa13905dc243a9e8a7b70804456545b0e8246cf",
+    "id": 5971,
+    "date": 1701942104598,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 14
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

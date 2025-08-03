@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1846",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1846.png",
+    "dna": "21e4899e89ee3cf379122fa0c49bf05a13ae9176",
+    "id": 1846,
+    "date": 1701927959188,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Death Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 24
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Acid rain drops"
+        }
+    ]
+}

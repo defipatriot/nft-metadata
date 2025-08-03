@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2055",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2055.png",
+    "dna": "ae83bffd085c6e83d381697a5e90c41f1e334c15",
+    "id": 2055,
+    "date": 1701928675882,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

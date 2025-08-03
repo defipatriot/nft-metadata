@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #897",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/897.png",
+    "dna": "32548bb554f0447ac4a9b48699738db782766fd6",
+    "id": 897,
+    "date": 1701924609747,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 19
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Noonlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

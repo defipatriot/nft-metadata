@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4526",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4526.png",
+    "dna": "eb6c455d1781f193e6214e5962daec983c8047f7",
+    "id": 4526,
+    "date": 1701936960570,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Golden Hammer"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 3
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Double rainbow"
+        }
+    ]
+}

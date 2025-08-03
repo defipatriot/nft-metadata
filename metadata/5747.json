@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5747",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5747.png",
+    "dna": "e0a545a6a750107f5e3d5b20b4876426a0fcbee6",
+    "id": 5747,
+    "date": 1701941270616,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 26
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

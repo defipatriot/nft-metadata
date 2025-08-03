@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8814",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8814.png",
+    "dna": "0239362213649084726f02d7dc1b84928ec326b2",
+    "id": 8814,
+    "date": 1701952499375,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Shovel"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 2
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

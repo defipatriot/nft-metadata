@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8834",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8834.png",
+    "dna": "97d9f265064b35924ab66f20137afbc382119661",
+    "id": 8834,
+    "date": 1701952563035,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Sand Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 13
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

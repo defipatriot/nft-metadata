@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9777",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9777.png",
+    "dna": "81a1fc219f4cef337f03ba4e0779c9862185d6f3",
+    "id": 9777,
+    "date": 1701956053399,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ice Cleaver"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 8
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Ocean winds"
+        }
+    ]
+}

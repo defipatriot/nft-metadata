@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9147",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9147.png",
+    "dna": "d1ea97a48333c5604476c34a4e8a3ce8b75898b8",
+    "id": 9147,
+    "date": 1701953639162,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Blaster"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 31
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Star dust"
+        }
+    ]
+}

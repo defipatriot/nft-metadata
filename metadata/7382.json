@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7382",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7382.png",
+    "dna": "a1bd23398a04871c0709368e742cf81a2209b5ca",
+    "id": 7382,
+    "date": 1701947428940,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Death Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 24
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Gredican fog"
+        }
+    ]
+}

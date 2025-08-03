@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8618",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8618.png",
+    "dna": "1a18d762500b6dd1e3b541b77a9a4c7ac14abe1a",
+    "id": 8618,
+    "date": 1701951851449,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Staff of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 16
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

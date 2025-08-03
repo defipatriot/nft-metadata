@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2510",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2510.png",
+    "dna": "20f1a978946f8a2bbdf2417b2c2875a9d9a96ea9",
+    "id": 2510,
+    "date": 1701930157564,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 9
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

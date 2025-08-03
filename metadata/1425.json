@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1425",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1425.png",
+    "dna": "440096615e305280b9909a0fb0dc9937b4f0e271",
+    "id": 1425,
+    "date": 1701926427234,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 10
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Acid rain drops"
+        }
+    ]
+}

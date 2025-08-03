@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6359",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6359.png",
+    "dna": "b70faa17a2566ee94677ef96cbf14fc0a0866700",
+    "id": 6359,
+    "date": 1701943551099,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Royal Ozaran Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 22
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cruthan sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Mountain fog"
+        }
+    ]
+}

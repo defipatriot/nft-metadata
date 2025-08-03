@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4707",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4707.png",
+    "dna": "10c5afab756065b79895779ce83492de51ce1a3a",
+    "id": 4707,
+    "date": 1701937543675,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "The Eternal Torch"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 4
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rainbow"
+        }
+    ]
+}

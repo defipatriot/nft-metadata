@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6249",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6249.png",
+    "dna": "e85002c56c9795dbe2131e5db70a8fcd6b86c193",
+    "id": 6249,
+    "date": 1701943140621,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 11
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Mountain winds"
+        }
+    ]
+}

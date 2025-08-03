@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #570",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/570.png",
+    "dna": "08d677ff01d0e2a1ef30ba49ee71a084f69d70fc",
+    "id": 570,
+    "date": 1701923462390,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Gredican Power Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 17
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Noonlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

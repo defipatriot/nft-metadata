@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9547",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9547.png",
+    "dna": "102b8d0a2f4ca98d31917fe0011b592b85c62d14",
+    "id": 9547,
+    "date": 1701955094261,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Golden Hammer"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 3
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Star dust"
+        }
+    ]
+}

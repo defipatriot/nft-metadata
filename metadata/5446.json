@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5446",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5446.png",
+    "dna": "c133d0af46a6b693524cb0c5b8a5bd3f9c0febcd",
+    "id": 5446,
+    "date": 1701940149694,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ice Cleaver"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 8
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

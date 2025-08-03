@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3630",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3630.png",
+    "dna": "fd1617b8da066a336d147257849c2555118b4f82",
+    "id": 3630,
+    "date": 1701933963884,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Gredican Power Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 17
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cristall clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

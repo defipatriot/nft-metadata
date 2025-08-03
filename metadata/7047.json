@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7047",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7047.png",
+    "dna": "40fc37161d35fdc2891ecff93066f40fb8433e22",
+    "id": 7047,
+    "date": 1701946134612,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "The Eternal Torch"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 4
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Pink pollen"
+        }
+    ]
+}

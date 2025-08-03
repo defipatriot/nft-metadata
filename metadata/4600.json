@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4600",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4600.png",
+    "dna": "532a9ece29079e016657541c28e03bbdeb609293",
+    "id": 4600,
+    "date": 1701937199707,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 9
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #394",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/394.png",
+    "dna": "2f0882bdf8d05e303d276d5c1ab2e18621d2ab8c",
+    "id": 394,
+    "date": 1701922847314,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 9
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Noonlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

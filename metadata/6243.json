@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6243",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6243.png",
+    "dna": "c8bd00bb6bd10888bf713e7a1ae3430248d56aae",
+    "id": 6243,
+    "date": 1701943118770,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Death Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 24
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cruthan sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Star dust"
+        }
+    ]
+}

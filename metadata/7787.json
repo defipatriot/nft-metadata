@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7787",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7787.png",
+    "dna": "a7369ff1ac68327c845e91994459f00db2735f13",
+    "id": 7787,
+    "date": 1701948997159,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Death Mace"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 5
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Dew drops"
+        }
+    ]
+}

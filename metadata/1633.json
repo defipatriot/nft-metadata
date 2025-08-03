@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1633",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1633.png",
+    "dna": "f4a652e5f9889d06bcc9e8753cefaceb14b4f0e2",
+    "id": 1633,
+    "date": 1701927212952,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Quartz Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 32
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Acid rain drops"
+        }
+    ]
+}

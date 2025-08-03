@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4404",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4404.png",
+    "dna": "3c21df42793941c63ef6ba92b81692a515b36e6d",
+    "id": 4404,
+    "date": 1701936568276,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Staff of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 16
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

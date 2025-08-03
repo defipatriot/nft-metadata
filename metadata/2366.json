@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2366",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2366.png",
+    "dna": "9f6abffe0c0fbed5ab20b5cf71c6a74c91a55ae6",
+    "id": 2366,
+    "date": 1701929688889,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 21
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

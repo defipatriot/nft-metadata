@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #691",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/691.png",
+    "dna": "7f84574213fc0c367c56c5c48eb39068ee464f30",
+    "id": 691,
+    "date": 1701923886978,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Death Mace"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 5
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4233",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4233.png",
+    "dna": "e1fd778ed4cf7a4909a90b6a5bf958625701282a",
+    "id": 4233,
+    "date": 1701936013193,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 12
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rainbow"
+        }
+    ]
+}

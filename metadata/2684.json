@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2684",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2684.png",
+    "dna": "0d8e7ae06bb0ac0102102d977161907c79e8fb83",
+    "id": 2684,
+    "date": 1701930727886,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

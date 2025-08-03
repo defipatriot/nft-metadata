@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7274",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7274.png",
+    "dna": "e7d1c76eb46fde4c21f0ab533d462528b5d7e67b",
+    "id": 7274,
+    "date": 1701947011533,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ice Cleaver"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 8
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

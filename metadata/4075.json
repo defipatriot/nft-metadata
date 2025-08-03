@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4075",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4075.png",
+    "dna": "3a0cd03d64112888b70793080a9253f3087c55ce",
+    "id": 4075,
+    "date": 1701935501566,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 18
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5484",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5484.png",
+    "dna": "e1e65a03b23af4f6a27e8e3d993bb80d0a0e8968",
+    "id": 5484,
+    "date": 1701940290921,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Gredican Power Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 17
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Arctic winds"
+        }
+    ]
+}

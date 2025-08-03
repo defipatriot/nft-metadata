@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6885",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6885.png",
+    "dna": "a79129743e04129d4313351cf11bbcdda7302b24",
+    "id": 6885,
+    "date": 1701945520823,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 14
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2565",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2565.png",
+    "dna": "514dbac79a96116e3aef36e6778b9083d473ff1c",
+    "id": 2565,
+    "date": 1701930340509,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ancient Lusan Trident"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 7
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #997",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/997.png",
+    "dna": "654501549663e4343eadbabc9ebfab9f0246d433",
+    "id": 997,
+    "date": 1701924960017,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Golden Hammer"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 3
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

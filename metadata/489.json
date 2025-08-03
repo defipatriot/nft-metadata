@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #489",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/489.png",
+    "dna": "6709baff665bd2f6d819761baf26556ba596eb49",
+    "id": 489,
+    "date": 1701923180024,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 14
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ozaran sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

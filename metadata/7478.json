@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7478",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7478.png",
+    "dna": "14db07f47b98e5179384464c6fc102cf7512e00a",
+    "id": 7478,
+    "date": 1701947800411,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Golden Hammer"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 3
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

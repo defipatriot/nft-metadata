@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5097",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5097.png",
+    "dna": "6f6dc36842b0fb376ed31fb31c563e4478c10cce",
+    "id": 5097,
+    "date": 1701938853598,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 15
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

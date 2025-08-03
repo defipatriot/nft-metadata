@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2416",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2416.png",
+    "dna": "8ba47fd7437dde24b547f85e2fe5fbea423d7a0f",
+    "id": 2416,
+    "date": 1701929854516,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Death Mace"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 5
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

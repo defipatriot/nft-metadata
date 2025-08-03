@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #450",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/450.png",
+    "dna": "fbbd05606478d163460c3f766cf8fadc4aafde7b",
+    "id": 450,
+    "date": 1701923043834,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Sand Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 13
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ozaran sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

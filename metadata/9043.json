@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9043",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9043.png",
+    "dna": "3cbaabb0e985e955baf1e6d9258a09c32881e1f8",
+    "id": 9043,
+    "date": 1701953263458,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 9
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Ocean winds"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #466",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/466.png",
+    "dna": "ec8d8255d366710fb4734d6d8f387b4806d2c8d5",
+    "id": 466,
+    "date": 1701923100338,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Shovel"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 2
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ozaran sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

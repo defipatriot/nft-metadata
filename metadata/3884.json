@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3884",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3884.png",
+    "dna": "8fcde7066ca98f47f9ac358d022c803de2e623c0",
+    "id": 3884,
+    "date": 1701934852306,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Sand Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 13
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cristall clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Kipple"
+        }
+    ]
+}

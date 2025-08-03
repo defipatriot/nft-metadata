@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4767",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4767.png",
+    "dna": "663ad5af4b1a6f118964ca85845d2896bb5b97c3",
+    "id": 4767,
+    "date": 1701937738330,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sword of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 38
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

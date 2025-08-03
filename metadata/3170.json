@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3170",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3170.png",
+    "dna": "d818bb0c09c79befd00ea9947004a801844091cc",
+    "id": 3170,
+    "date": 1701932356986,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Golden Hammer"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 3
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Amethyst glow"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Diamond dust"
+        }
+    ]
+}

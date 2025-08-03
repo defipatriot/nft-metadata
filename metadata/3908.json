@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3908",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3908.png",
+    "dna": "22068e2f0593fede9ffe702741541acae3a9d06f",
+    "id": 3908,
+    "date": 1701934935363,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Sand Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 13
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cristall clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Kipple"
+        }
+    ]
+}

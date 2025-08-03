@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5092",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5092.png",
+    "dna": "0a042f8e578eed1a5657ea4f9bf16126f2a22a4e",
+    "id": 5092,
+    "date": 1701938835348,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 21
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

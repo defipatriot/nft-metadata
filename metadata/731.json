@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #731",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/731.png",
+    "dna": "b7e1bdeec95cfcfefc794633195c2f9ea55fbcba",
+    "id": 731,
+    "date": 1701924027121,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 20
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

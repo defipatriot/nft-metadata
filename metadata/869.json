@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #869",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/869.png",
+    "dna": "f20923072b7e93120c4595012237b21164fbee3c",
+    "id": 869,
+    "date": 1701924511419,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 18
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

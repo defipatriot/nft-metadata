@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2085",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2085.png",
+    "dna": "7877bf38a488989f8889bebd8e99e68c33fcbf01",
+    "id": 2085,
+    "date": 1701928773814,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 14
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

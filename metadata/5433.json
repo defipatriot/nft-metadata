@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5433",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5433.png",
+    "dna": "c7b720b8e83a6e2b6808cba1c215749cb3ed55ab",
+    "id": 5433,
+    "date": 1701940101229,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 25
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

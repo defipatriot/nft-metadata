@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #683",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/683.png",
+    "dna": "8a9e088830f6542fec60f5f6a78681cfbd23ac6c",
+    "id": 683,
+    "date": 1701923858728,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 19
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ozaran sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

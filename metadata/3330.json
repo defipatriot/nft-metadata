@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3330",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3330.png",
+    "dna": "2b69e8bb6411a1231350e6640aed04ae49099091",
+    "id": 3330,
+    "date": 1701932919804,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Blaster"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 31
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Amethyst glow"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

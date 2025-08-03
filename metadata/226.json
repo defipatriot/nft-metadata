@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #226",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/226.png",
+    "dna": "19e2fc4be9d82708efd9cbe259b6a47b820c4b91",
+    "id": 226,
+    "date": 1701922250176,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Death Saber"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 24
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ozaran sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #444",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/444.png",
+    "dna": "7f004674809b4f86bfaa7d8a190fc1d0ca77fa55",
+    "id": 444,
+    "date": 1701923022712,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ancient Lusan Trident"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 7
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

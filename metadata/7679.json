@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7679",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7679.png",
+    "dna": "770577773a4b282781aa387d9cd6821faa14526c",
+    "id": 7679,
+    "date": 1701948579829,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ice Cleaver"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 8
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

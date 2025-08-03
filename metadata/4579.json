@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4579",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4579.png",
+    "dna": "19b9e39cc6b02f0e8fedd8176e091e56c61eb017",
+    "id": 4579,
+    "date": 1701937130893,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Gredican Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 28
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

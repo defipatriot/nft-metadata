@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6614",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6614.png",
+    "dna": "961b4ea3c29a24e781fb80ad666ff885a0ea9a9a",
+    "id": 6614,
+    "date": 1701944504209,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sword of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 38
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cruthan sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

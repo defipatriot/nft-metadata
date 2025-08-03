@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6364",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6364.png",
+    "dna": "1b63703c6980ab771f296d60ce20733870f23d1f",
+    "id": 6364,
+    "date": 1701943570377,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Death Mace"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 5
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cruthan sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

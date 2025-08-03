@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4159",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4159.png",
+    "dna": "32ca3665c5d89bdc460b37cd7b6172fc53269120",
+    "id": 4159,
+    "date": 1701935773301,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 19
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

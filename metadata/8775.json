@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8775",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8775.png",
+    "dna": "6d248e9aa47e5bc8ffdc43cbdbea55734f3eeeeb",
+    "id": 8775,
+    "date": 1701952370297,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 19
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

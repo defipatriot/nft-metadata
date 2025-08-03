@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3468",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3468.png",
+    "dna": "d105f9e51d0e66632aabe2e6afff822fc2bd862d",
+    "id": 3468,
+    "date": 1701933397260,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Golden Hammer"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 3
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Amethyst glow"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Dew drops"
+        }
+    ]
+}

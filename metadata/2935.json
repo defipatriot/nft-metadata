@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2935",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2935.png",
+    "dna": "9bfab0debda6098c786fe41a5e1c3012a4975a0b",
+    "id": 2935,
+    "date": 1701931555649,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 20
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

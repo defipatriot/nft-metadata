@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2874",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2874.png",
+    "dna": "b726e9fd9f602fe3434505bcf4408d87dadaaa63",
+    "id": 2874,
+    "date": 1701931355395,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 12
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

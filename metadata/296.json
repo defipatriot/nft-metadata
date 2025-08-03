@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #296",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/296.png",
+    "dna": "70ffb4952a980298f79fb31b8d1b32007787a370",
+    "id": 296,
+    "date": 1701922499412,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 33
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9575",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9575.png",
+    "dna": "d159e5205dced1f86384f16b3ee5dd79e9f68cd1",
+    "id": 9575,
+    "date": 1701955196158,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Sand Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 13
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Ocean winds"
+        }
+    ]
+}

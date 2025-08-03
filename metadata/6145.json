@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6145",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6145.png",
+    "dna": "9d1be0fa94cce95dae55b27b6c5760a0c149a157",
+    "id": 6145,
+    "date": 1701942753354,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Staff of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 16
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cruthan sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

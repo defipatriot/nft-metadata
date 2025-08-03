@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3072",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3072.png",
+    "dna": "74f0cdad3f04145dd712ce79554907d03c2aed6d",
+    "id": 3072,
+    "date": 1701932016638,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ice Cleaver"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 8
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Amethyst glow"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

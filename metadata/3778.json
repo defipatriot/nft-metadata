@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3778",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3778.png",
+    "dna": "ed6ad88d0f99541271e58a7ab43bcc3fee68960b",
+    "id": 3778,
+    "date": 1701934479455,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ancient Lusan Trident"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 7
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Amethyst glow"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

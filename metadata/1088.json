@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1088",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1088.png",
+    "dna": "5d2492a353866e6873fae8fa85d9f4aff12cb885",
+    "id": 1088,
+    "date": 1701925272345,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "The Eternal Torch"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 4
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Volcanic dust"
+        }
+    ]
+}

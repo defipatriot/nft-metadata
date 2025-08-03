@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #9669",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/9669.png",
+    "dna": "15317a1d1799a0f16b5dc67eb8779d9d20372f3e",
+    "id": 9669,
+    "date": 1701955581999,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Lusa South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 14
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ocean reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

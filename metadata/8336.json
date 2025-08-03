@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8336",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8336.png",
+    "dna": "2a25aa1bb8553995288885662cb2d1708b71dc81",
+    "id": 8336,
+    "date": 1701950922205,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 14
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6150",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6150.png",
+    "dna": "57490180c0566016486f31bcf32dee0652008560",
+    "id": 6150,
+    "date": 1701942772079,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ancient Lusan Trident"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 7
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Mountain winds"
+        }
+    ]
+}

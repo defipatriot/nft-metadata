@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7512",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7512.png",
+    "dna": "5d08966c63b11345f7f0ba1ba8686ba12b6c9ef1",
+    "id": 7512,
+    "date": 1701947931626,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 15
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

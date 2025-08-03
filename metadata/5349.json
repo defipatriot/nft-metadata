@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5349",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5349.png",
+    "dna": "801f94f30c04e740caf7f3c53dd9912aafc33863",
+    "id": 5349,
+    "date": 1701939789456,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 15
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

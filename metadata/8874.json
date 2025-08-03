@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8874",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8874.png",
+    "dna": "261ccf863e232f17c71027fe85e22b418b0546b1",
+    "id": 8874,
+    "date": 1701952694961,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 18
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

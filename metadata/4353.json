@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4353",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4353.png",
+    "dna": "24b44bd77ea05211efe9ebe357ca938b2d00d291",
+    "id": 4353,
+    "date": 1701936404762,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Blaster"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 31
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

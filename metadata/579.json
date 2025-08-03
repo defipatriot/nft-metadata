@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #579",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/579.png",
+    "dna": "8000e6d0d37b00a04a9c3dca5b52956e1eab4aff",
+    "id": 579,
+    "date": 1701923494177,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 23
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

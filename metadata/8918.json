@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8918",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8918.png",
+    "dna": "4989b7adf49a1629dc515ce66b6137877fcfaa04",
+    "id": 8918,
+    "date": 1701952839521,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Death Mace"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 5
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6384",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6384.png",
+    "dna": "4faa2921a4cb54a693e6b004b0f82a671ec814f5",
+    "id": 6384,
+    "date": 1701943644290,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 21
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Granite dust"
+        }
+    ]
+}

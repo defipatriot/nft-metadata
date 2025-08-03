@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2023",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2023.png",
+    "dna": "96cc0aad7395754b010ef3d6580b5333b5662f0d",
+    "id": 2023,
+    "date": 1701928572003,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 23
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1919",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1919.png",
+    "dna": "a35dced753a7b30e6ff53e6d28c3ba900713c1ac",
+    "id": 1919,
+    "date": 1701928214783,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 11
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

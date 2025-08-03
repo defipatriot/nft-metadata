@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3940",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3940.png",
+    "dna": "a59739eeef2bd8348abe517ef490e061ecaffd16",
+    "id": 3940,
+    "date": 1701935048024,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 11
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cristall clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Dew drops"
+        }
+    ]
+}

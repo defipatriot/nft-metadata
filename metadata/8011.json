@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8011",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8011.png",
+    "dna": "95e3babed005be3db14fd653ac230d08bf3d3a73",
+    "id": 8011,
+    "date": 1701949855740,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Shovel"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 2
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

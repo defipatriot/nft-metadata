@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6440",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6440.png",
+    "dna": "869f9ba6a488a5fb3d04ef9dae0f5be6494f9833",
+    "id": 6440,
+    "date": 1701943853660,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ancient Lusan Trident"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 7
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Mountain fog"
+        }
+    ]
+}

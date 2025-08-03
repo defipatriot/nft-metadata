@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7044",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7044.png",
+    "dna": "dff5c14d6fa0256fac37c35146693d8862f10060",
+    "id": 7044,
+    "date": 1701946123112,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Royal Ozaran Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 22
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Pink breeze"
+        }
+    ]
+}

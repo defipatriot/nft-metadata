@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8435",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8435.png",
+    "dna": "25cc110f4209066b52efd494d949ca5be6a5a9c1",
+    "id": 8435,
+    "date": 1701951248945,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "SST Fishing Pole"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 30
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

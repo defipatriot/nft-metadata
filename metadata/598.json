@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #598",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/598.png",
+    "dna": "52c88e6de54fc0870cdfa66d301aa930185af10a",
+    "id": 598,
+    "date": 1701923560911,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 10
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

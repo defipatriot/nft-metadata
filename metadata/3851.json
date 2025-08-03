@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3851",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3851.png",
+    "dna": "f6ae14d65cf289af402549b2969d6b3814ee2b6a",
+    "id": 3851,
+    "date": 1701934736083,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 15
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cristall clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

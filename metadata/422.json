@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #422",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/422.png",
+    "dna": "03a9af7c2ba5ca9eea8bf53278f8dd2b41f0bd51",
+    "id": 422,
+    "date": 1701922945683,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Kitan Ice Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 25
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Noonlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7637",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7637.png",
+    "dna": "a49384d9c1e777a4e4ec360f95a09efd189194ae",
+    "id": 7637,
+    "date": 1701948417226,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 20
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

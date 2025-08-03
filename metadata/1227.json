@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1227",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1227.png",
+    "dna": "1df28082c9431d37d5c4f9bcf172a1a739a216b7",
+    "id": 1227,
+    "date": 1701925747061,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 23
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

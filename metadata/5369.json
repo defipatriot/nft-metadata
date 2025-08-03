@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5369",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5369.png",
+    "dna": "129f15151a66bad00fb984185d49d4575d03c575",
+    "id": 5369,
+    "date": 1701939863237,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Death Mace"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 5
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

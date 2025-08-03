@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4178",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4178.png",
+    "dna": "33cbeec4811862f79aa0717acc53db66709d7990",
+    "id": 4178,
+    "date": 1701935835518,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Sand Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 13
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rainbow"
+        }
+    ]
+}

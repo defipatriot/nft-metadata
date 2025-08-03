@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5032",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5032.png",
+    "dna": "4490c240de7eb76d4938350016468a89e87c29a5",
+    "id": 5032,
+    "date": 1701938613047,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Bone Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 6
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

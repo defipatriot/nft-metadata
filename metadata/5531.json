@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5531",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5531.png",
+    "dna": "f988e402258bcaaf445b812541b6dea5766da8ca",
+    "id": 5531,
+    "date": 1701940465925,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Blaster"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 31
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Arctic winds"
+        }
+    ]
+}

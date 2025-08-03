@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8401",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8401.png",
+    "dna": "7ee060c79f6c8a6820fa63aaec35d8b4b9a5602c",
+    "id": 8401,
+    "date": 1701951138080,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Minasan Ore Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 23
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

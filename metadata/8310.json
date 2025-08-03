@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8310",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8310.png",
+    "dna": "3607c2ba17a7982908983fa614391eb2865763c8",
+    "id": 8310,
+    "date": 1701950837803,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Bone Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 6
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light wind"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7798",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7798.png",
+    "dna": "876db470a00793d55bce36389cc4c8c8bff6d0dc",
+    "id": 7798,
+    "date": 1701949039863,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 33
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8359",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8359.png",
+    "dna": "ca2311ce3a01ed6fb25affaffa62c178f9f74474",
+    "id": 8359,
+    "date": 1701950999289,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Water Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 10
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

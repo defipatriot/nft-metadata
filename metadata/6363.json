@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6363",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6363.png",
+    "dna": "dc81f067cb1ceec242aa8e1f82991bf7be1575d2",
+    "id": 6363,
+    "date": 1701943566540,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cruthan Blaster"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 31
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Heavy showers"
+        }
+    ]
+}

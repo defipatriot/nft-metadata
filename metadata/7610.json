@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7610",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7610.png",
+    "dna": "fc6f79fae08e64b0ff1002d0e9e9d79e9e8bdc74",
+    "id": 7610,
+    "date": 1701948312203,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "SST Fishing Pole"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 30
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

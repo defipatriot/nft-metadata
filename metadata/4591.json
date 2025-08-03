@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4591",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4591.png",
+    "dna": "02980e356871dc89e4338cd505e9ba85dbb42202",
+    "id": 4591,
+    "date": 1701937169602,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 29
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rainbow"
+        }
+    ]
+}

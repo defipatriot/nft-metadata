@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4019",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4019.png",
+    "dna": "51b85f13656f47eaf5d6b46a7b6bf1a6a43b2a1d",
+    "id": 4019,
+    "date": 1701935319198,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Gredican Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 28
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Double rainbow"
+        }
+    ]
+}

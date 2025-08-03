@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #194",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/194.png",
+    "dna": "678084117abe5170274298f2bb65dcdf590979ff",
+    "id": 194,
+    "date": 1701922137181,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 20
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

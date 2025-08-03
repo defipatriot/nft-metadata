@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8527",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8527.png",
+    "dna": "0e1c8bd5519584099b3f98aa8af4edfb2c833e7d",
+    "id": 8527,
+    "date": 1701951551860,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Gredican Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 28
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Comet dust"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4810",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4810.png",
+    "dna": "ff7f21e5cdf80f80cab08b83a59959cd1a9a6f12",
+    "id": 4810,
+    "date": 1701937875318,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Bone Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 6
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Ozaran F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Double rainbow"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6703",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6703.png",
+    "dna": "ea06e9e977830f3dd718c6ff2bd5db093f4392af",
+    "id": 6703,
+    "date": 1701944836894,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 27
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Mountain fog"
+        }
+    ]
+}

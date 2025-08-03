@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7091",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7091.png",
+    "dna": "8c26d1ebe4a87fc3b0e19fa0c42ccd7f15bc63bb",
+    "id": 7091,
+    "date": 1701946305267,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Staff of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 16
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pink Poison Fog"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

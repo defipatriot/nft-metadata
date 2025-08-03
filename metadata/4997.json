@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4997",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4997.png",
+    "dna": "56ae72039b71ea61d10128f9d803c372755cea71",
+    "id": 4997,
+    "date": 1701938484042,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 27
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rainbow"
+        }
+    ]
+}

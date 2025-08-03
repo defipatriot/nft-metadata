@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2620",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2620.png",
+    "dna": "81fdfaf27d26ca2bf7c2a4dde1427be87fb3e67b",
+    "id": 2620,
+    "date": 1701930522404,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Flame Thrower"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 35
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

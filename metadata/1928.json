@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1928",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1928.png",
+    "dna": "4b20c0187e3a2ee8a80dbbb0bc2f4a4a070e04fe",
+    "id": 1928,
+    "date": 1701928246010,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Staff"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 15
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Volcanic dust"
+        }
+    ]
+}

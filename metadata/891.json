@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #891",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/891.png",
+    "dna": "979fad82495a81f3945f05b61a5a950848a989b8",
+    "id": 891,
+    "date": 1701924588953,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 33
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Noonlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

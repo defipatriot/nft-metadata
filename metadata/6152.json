@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #6152",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6152.png",
+    "dna": "92b1637685fe8536dd013e1d713b924c1c4af39b",
+    "id": 6152,
+    "date": 1701942779294,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 29
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Zandoan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

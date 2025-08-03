@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #4048",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4048.png",
+    "dna": "8ca3aceb67052a30c6c9f312cb0c0656fd3dbac8",
+    "id": 4048,
+    "date": 1701935413512,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Bone Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 6
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Double rainbow"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5816",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5816.png",
+    "dna": "76a42a4d3ca5f37bc7eda081d18164f26c66f064",
+    "id": 5816,
+    "date": 1701941526990,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Flame Thrower"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 35
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

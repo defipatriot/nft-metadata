@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5102",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5102.png",
+    "dna": "88089bbc37190e68080a1f95da2f0e38cb076c81",
+    "id": 5102,
+    "date": 1701938872118,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 29
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

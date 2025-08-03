@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #3058",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3058.png",
+    "dna": "73fb049c6a435a44b4c377d164af63df694136bb",
+    "id": 3058,
+    "date": 1701931968296,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 29
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cristall clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

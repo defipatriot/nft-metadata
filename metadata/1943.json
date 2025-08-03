@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #1943",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/1943.png",
+    "dna": "3b1521b60d372a2ca155249f32284de7ce61cf88",
+    "id": 1943,
+    "date": 1701928298727,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Sindari South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Xtreme Soaker"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 36
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Gredican F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sindari heatwave"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Acid rain drops"
+        }
+    ]
+}

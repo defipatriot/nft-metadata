@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8765",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8765.png",
+    "dna": "74b69db3666d2700f46f6c6e9974ab4506a1743d",
+    "id": 8765,
+    "date": 1701952336235,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 33
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

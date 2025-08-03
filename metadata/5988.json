@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5988",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5988.png",
+    "dna": "cb403e65c525ee0d4431904f3bed5b3e49c18a80",
+    "id": 5988,
+    "date": 1701942167956,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Quartz Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 32
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Minasan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

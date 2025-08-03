@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #2846",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2846.png",
+    "dna": "99f8c1031eff5263df66f6c1c7d2726d17ea0a8d",
+    "id": 2846,
+    "date": 1701931261648,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Pampan Grass Sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 27
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Sindarin M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Rain drops"
+        }
+    ]
+}

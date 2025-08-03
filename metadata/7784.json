@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #7784",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/7784.png",
+    "dna": "f2b5d3c4ce51882478080ac5d48a84d19b901b6b",
+    "id": 7784,
+    "date": 1701948985583,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Gredica North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sword of Zando"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 38
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light rain"
+        }
+    ]
+}

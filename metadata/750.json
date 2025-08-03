@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #750",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/750.png",
+    "dna": "4f555cb4184da2398509515462dcd049ac28bc13",
+    "id": 750,
+    "date": 1701924093808,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "SST Fishing Pole"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 30
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cruthan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Noonlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

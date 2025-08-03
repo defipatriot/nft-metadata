@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #8568",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/8568.png",
+    "dna": "fb2a748b915fe7b4334e596fe6a4a6386baf092b",
+    "id": 8568,
+    "date": 1701951688817,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Minas North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Quartz Ray Gun"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 32
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Minasan Mining light"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

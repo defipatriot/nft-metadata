@@ -1,0 +1,34 @@
+{
+    "name": "The AllianceDAO NFT #5975",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5975.png",
+    "dna": "176047d280fd8e05a65fcd23a27f0cf132849f9b",
+    "id": 5975,
+    "date": 1701942119480,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ozaran Blaster"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 34
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}
