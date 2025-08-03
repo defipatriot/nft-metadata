@@ -1,0 +1,35 @@
+{
+    "name": "The AllianceDAO NFT #5443",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiaxgi4be5krl72hxlaqwafz4xmnint3il3sptcrehrizsiuqh6r7q/5443.png",
+    "thumbnail_image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5443.png",
+    "dna": "e0668f5aa3395f46ecd45fb5e8afbecacc839b7e",
+    "id": 5443,
+    "date": 1701940138237,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Fire Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 20
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Kitan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

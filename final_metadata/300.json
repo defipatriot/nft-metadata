@@ -1,0 +1,35 @@
+{
+    "name": "The AllianceDAO NFT #300",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiaxgi4be5krl72hxlaqwafz4xmnint3il3sptcrehrizsiuqh6r7q/300.png",
+    "thumbnail_image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/300.png",
+    "dna": "d0fdd1a298a9d3520073cd41bf083943a6eec68a",
+    "id": 300,
+    "date": 1701922513831,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Ozara South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Cristallian Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 21
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Noonlight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Desert dust"
+        }
+    ]
+}

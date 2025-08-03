@@ -1,0 +1,35 @@
+{
+    "name": "The AllianceDAO NFT #4247",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiaxgi4be5krl72hxlaqwafz4xmnint3il3sptcrehrizsiuqh6r7q/4247.png",
+    "thumbnail_image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/4247.png",
+    "dna": "0ac6bd4e1b2eae896a2545e7528249199fa1e9b5",
+    "id": 4247,
+    "date": 1701936058398,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Pampas South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Ice Cleaver"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 8
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Pampan summer sun"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Double rainbow"
+        }
+    ]
+}

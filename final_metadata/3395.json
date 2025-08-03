@@ -1,0 +1,35 @@
+{
+    "name": "The AllianceDAO NFT #3395",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiaxgi4be5krl72hxlaqwafz4xmnint3il3sptcrehrizsiuqh6r7q/3395.png",
+    "thumbnail_image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/3395.png",
+    "dna": "6fd41484e23c09233a6aa4930a6be58941f7be88",
+    "id": 3395,
+    "date": 1701933145194,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Cristall South"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Battle Axe"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 1
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Cristall clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

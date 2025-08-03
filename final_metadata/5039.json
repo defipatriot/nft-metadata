@@ -1,0 +1,35 @@
+{
+    "name": "The AllianceDAO NFT #5039",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiaxgi4be5krl72hxlaqwafz4xmnint3il3sptcrehrizsiuqh6r7q/5039.png",
+    "thumbnail_image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/5039.png",
+    "dna": "d52ab5b555deac273518a23a74fe19b5c5e4b40a",
+    "id": 5039,
+    "date": 1701938639061,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Kita North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Royal Ozaran Bow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 22
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Pampan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Ice reflection"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Light snow"
+        }
+    ]
+}

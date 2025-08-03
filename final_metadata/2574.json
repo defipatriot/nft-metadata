@@ -1,0 +1,35 @@
+{
+    "name": "The AllianceDAO NFT #2574",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiaxgi4be5krl72hxlaqwafz4xmnint3il3sptcrehrizsiuqh6r7q/2574.png",
+    "thumbnail_image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/2574.png",
+    "dna": "cb4c30a006232f228ad8e871f2f99566002f8d4e",
+    "id": 2574,
+    "date": 1701930369403,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Zando North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Lusan Xtreme Soaker"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 36
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Lusan M"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Treelight"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Clear"
+        }
+    ]
+}

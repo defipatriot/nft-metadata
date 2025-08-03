@@ -1,0 +1,35 @@
+{
+    "name": "The AllianceDAO NFT #6982",
+    "description": "The official NFT of the AllianceDAO",
+    "image": "ipfs://bafybeiaxgi4be5krl72hxlaqwafz4xmnint3il3sptcrehrizsiuqh6r7q/6982.png",
+    "thumbnail_image": "ipfs://bafybeiek4cv2w6ot767nriveyzagejnvzpw3qr2b7iyc6ccddid6jj77za/6982.png",
+    "dna": "58ffa6a51e3fb21ff411af51cd03f4c6cc72f832",
+    "id": 6982,
+    "date": 1701945885183,
+    "attributes": [
+        {
+            "trait_type": "Planet",
+            "value": "Crutha North"
+        },
+        {
+            "trait_type": "Object",
+            "value": "Sindarin Flame Thrower"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 35
+        },
+        {
+            "trait_type": "Inhabitant",
+            "value": "Cristallian F"
+        },
+        {
+            "trait_type": "Light",
+            "value": "Clear"
+        },
+        {
+            "trait_type": "Weather",
+            "value": "Mountain fog"
+        }
+    ]
+}
